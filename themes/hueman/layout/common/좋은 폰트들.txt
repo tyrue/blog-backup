@@ -1,0 +1,31 @@
+º¯°æÇÏ´Â ¹ý
+https://d2fault.github.io/2018/02/21/20180221-hexo-change-font-hueman-theme-version/
+
+³ª´®¹Ù¸¥°íµñ(Nanum Barun Gothic)
+https://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css
+³ª´®½ºÄù¾î(Nanum Square)
+https://cdn.rawgit.com/hiun/NanumSquare/master/nanumsquare.css
+³ª´®½ºÄù¾î¶ó¿îµå(NanumSquareRound)
+https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css
+³ª´®°íµñÄÚµù(Nanum Gothic Coding)
+https://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css
+³ª´®¼Õ±Û¾¾º×(Nanum Brush Script)
+https://fonts.googleapis.com/earlyaccess/nanumbrushscript.css
+³ª´®¼Õ±Û¾¾Ææ(Nanum Pen Script)
+https://fonts.googleapis.com/earlyaccess/nanumbrushscript.css
+³ª´®¸íÁ¶(Nanum Myeongjo)
+http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css
+ÀÌ·Ó°Ô¹ÙÅÁ(Iropke Batang)
+https://cdn.rawgit.com/jmnote/IropkeBatang/master/iropkebatang.css
+KoPub µ¸¿ò(KoPub Dotum)
+https://cdn.jsdelivr.net/font-kopub/1.0/kopubdotum.css
+KoPub ¹ÙÅÁ(KoPub Batang)
+https://fonts.googleapis.com/earlyaccess/kopubbatang.css
+Á¦ÁÖ°íµñ(Jeju Gothic)
+http://fonts.googleapis.com/earlyaccess/jejugothic.css
+Á¦ÁÖ ÇÑ¶ó»ê(Jeju Hallasan)
+http://fonts.googleapis.com/earlyaccess/jejuhallasan.css
+Á¦ÁÖ ¸íÁ¶(Jeju Myeongjo)
+http://fonts.googleapis.com/earlyaccess/jejumyeongjo.css
+ÇÑ³ª(Hanna)
+http://fonts.googleapis.com/earlyaccess/hanna.css
